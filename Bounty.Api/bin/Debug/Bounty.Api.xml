@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bounty.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Bounty.Api.Controllers.AccountController">
+            <summary>
+            表示账户信息的控制器。
+            </summary>
+        </member>
+        <member name="M:Bounty.Api.Controllers.AccountController.SignIn(Bounty.Api.Models.SignInViewModel)">
+            <summary>
+            登录系统。
+            </summary>
+            <param name="model">登录视图模型。</param>
+            <returns></returns>
+        </member>
+        <member name="M:Bounty.Api.Controllers.AccountController.SignOut">
+            <summary>
+            退出系统。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Bounty.Api.Controllers.AuthController">
+            <summary>
+            表示需要授权访问的控制器基类。
+            </summary>
+        </member>
+        <member name="T:Bounty.Api.Controllers.OrderController">
+            <summary>
+            表示订单的控制器。
+            </summary>
+        </member>
+        <member name="T:Bounty.Api.Models.SignInViewModel">
+            <summary>
+            表示登录的视图模型。
+            </summary>
+        </member>
+        <member name="P:Bounty.Api.Models.SignInViewModel.Account">
+            <summary>
+            获取或设置账号。
+            </summary>
+        </member>
+        <member name="P:Bounty.Api.Models.SignInViewModel.Captch">
+            <summary>
+            获取或设置验证码。
+            </summary>
+        </member>
+    </members>
+</doc>

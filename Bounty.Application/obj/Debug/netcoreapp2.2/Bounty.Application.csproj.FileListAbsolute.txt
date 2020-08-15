@@ -1,0 +1,17 @@
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.Application.deps.json
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.Application.dll
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.Application.pdb
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.Domain.dll
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.IApplication.dll
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.dll
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.Domain.pdb
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.IApplication.pdb
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.pdb
+D:\Projects\Bounty\Bounty.Application\obj\Debug\netcoreapp2.2\Bounty.Application.csprojAssemblyReference.cache
+D:\Projects\Bounty\Bounty.Application\obj\Debug\netcoreapp2.2\Bounty.Application.AssemblyInfoInputs.cache
+D:\Projects\Bounty\Bounty.Application\obj\Debug\netcoreapp2.2\Bounty.Application.AssemblyInfo.cs
+D:\Projects\Bounty\Bounty.Application\obj\Debug\netcoreapp2.2\Bounty.Application.csproj.CopyComplete
+D:\Projects\Bounty\Bounty.Application\obj\Debug\netcoreapp2.2\Bounty.Application.dll
+D:\Projects\Bounty\Bounty.Application\obj\Debug\netcoreapp2.2\Bounty.Application.pdb
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.Web.dll
+D:\Projects\Bounty\Bounty.Application\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.Web.pdb

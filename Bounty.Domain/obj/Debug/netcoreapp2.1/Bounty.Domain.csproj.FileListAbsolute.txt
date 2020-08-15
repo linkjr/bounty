@@ -1,0 +1,12 @@
+D:\Projects\Bounty\Bounty.Domain\bin\Debug\netcoreapp2.1\Bounty.Domain.deps.json
+D:\Projects\Bounty\Bounty.Domain\bin\Debug\netcoreapp2.1\Bounty.Domain.dll
+D:\Projects\Bounty\Bounty.Domain\bin\Debug\netcoreapp2.1\Bounty.Domain.pdb
+D:\Projects\Bounty\Bounty.Domain\bin\Debug\netcoreapp2.1\Bounty.Infrastructure.dll
+D:\Projects\Bounty\Bounty.Domain\bin\Debug\netcoreapp2.1\Bounty.Infrastructure.pdb
+D:\Projects\Bounty\Bounty.Domain\obj\Debug\netcoreapp2.1\Bounty.Domain.csprojAssemblyReference.cache
+D:\Projects\Bounty\Bounty.Domain\obj\Debug\netcoreapp2.1\Bounty.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Bounty\Bounty.Domain\obj\Debug\netcoreapp2.1\Bounty.Domain.AssemblyInfoInputs.cache
+D:\Projects\Bounty\Bounty.Domain\obj\Debug\netcoreapp2.1\Bounty.Domain.AssemblyInfo.cs
+D:\Projects\Bounty\Bounty.Domain\obj\Debug\netcoreapp2.1\Bounty.Domain.csproj.CopyComplete
+D:\Projects\Bounty\Bounty.Domain\obj\Debug\netcoreapp2.1\Bounty.Domain.dll
+D:\Projects\Bounty\Bounty.Domain\obj\Debug\netcoreapp2.1\Bounty.Domain.pdb

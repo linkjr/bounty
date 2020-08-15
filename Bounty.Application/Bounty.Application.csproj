@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bounty.Domain\Bounty.Domain.csproj" />
+    <ProjectReference Include="..\Bounty.IApplication\Bounty.IApplication.csproj" />
+    <ProjectReference Include="..\Bounty.Infrastructure.Web\Bounty.Infrastructure.Web.csproj" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xCopy /r /y &quot;$(TargetDir)*.dll&quot; &quot;$(SolutionDir)Bounty.Api\$(OutDir)&quot;&#xD;&#xA;xCopy /r /y &quot;$(TargetDir)*.dll&quot; &quot;$(SolutionDir)Bounty.Schedule\$(OutDir)&quot;" />
+  </Target>
+
+</Project>

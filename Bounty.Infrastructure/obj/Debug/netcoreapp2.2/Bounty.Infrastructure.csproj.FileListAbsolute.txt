@@ -1,0 +1,8 @@
+D:\Projects\Bounty\Bounty.Infrastructure\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.deps.json
+D:\Projects\Bounty\Bounty.Infrastructure\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.dll
+D:\Projects\Bounty\Bounty.Infrastructure\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.pdb
+D:\Projects\Bounty\Bounty.Infrastructure\obj\Debug\netcoreapp2.2\Bounty.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Bounty\Bounty.Infrastructure\obj\Debug\netcoreapp2.2\Bounty.Infrastructure.AssemblyInfo.cs
+D:\Projects\Bounty\Bounty.Infrastructure\obj\Debug\netcoreapp2.2\Bounty.Infrastructure.dll
+D:\Projects\Bounty\Bounty.Infrastructure\obj\Debug\netcoreapp2.2\Bounty.Infrastructure.pdb
+D:\Projects\Bounty\Bounty.Infrastructure\obj\Debug\netcoreapp2.2\Bounty.Infrastructure.csprojAssemblyReference.cache

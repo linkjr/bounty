@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Bounty.IApplication/1.0.0": {
+        "runtime": {
+          "Bounty.IApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bounty.IApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

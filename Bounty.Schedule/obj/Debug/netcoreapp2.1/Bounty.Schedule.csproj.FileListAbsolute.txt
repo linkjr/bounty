@@ -1,0 +1,11 @@
+D:\Projects\Bounty\Bounty.Schedule\bin\Debug\netcoreapp2.1\Bounty.Schedule.deps.json
+D:\Projects\Bounty\Bounty.Schedule\bin\Debug\netcoreapp2.1\Bounty.Schedule.runtimeconfig.json
+D:\Projects\Bounty\Bounty.Schedule\bin\Debug\netcoreapp2.1\Bounty.Schedule.runtimeconfig.dev.json
+D:\Projects\Bounty\Bounty.Schedule\bin\Debug\netcoreapp2.1\Bounty.Schedule.dll
+D:\Projects\Bounty\Bounty.Schedule\bin\Debug\netcoreapp2.1\Bounty.Schedule.pdb
+D:\Projects\Bounty\Bounty.Schedule\obj\Debug\netcoreapp2.1\Bounty.Schedule.csproj.CoreCompileInputs.cache
+D:\Projects\Bounty\Bounty.Schedule\obj\Debug\netcoreapp2.1\Bounty.Schedule.AssemblyInfoInputs.cache
+D:\Projects\Bounty\Bounty.Schedule\obj\Debug\netcoreapp2.1\Bounty.Schedule.AssemblyInfo.cs
+D:\Projects\Bounty\Bounty.Schedule\obj\Debug\netcoreapp2.1\Bounty.Schedule.dll
+D:\Projects\Bounty\Bounty.Schedule\obj\Debug\netcoreapp2.1\Bounty.Schedule.pdb
+D:\Projects\Bounty\Bounty.Schedule\obj\Debug\netcoreapp2.1\Bounty.Schedule.csprojAssemblyReference.cache

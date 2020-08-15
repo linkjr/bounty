@@ -1,0 +1,15 @@
+D:\Projects\Bounty\Bounty.Domain.Repositories\bin\Debug\netcoreapp2.2\Bounty.Domain.Repositories.deps.json
+D:\Projects\Bounty\Bounty.Domain.Repositories\bin\Debug\netcoreapp2.2\Bounty.Domain.Repositories.dll
+D:\Projects\Bounty\Bounty.Domain.Repositories\bin\Debug\netcoreapp2.2\Bounty.Domain.Repositories.pdb
+D:\Projects\Bounty\Bounty.Domain.Repositories\bin\Debug\netcoreapp2.2\Bounty.Domain.dll
+D:\Projects\Bounty\Bounty.Domain.Repositories\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.dll
+D:\Projects\Bounty\Bounty.Domain.Repositories\bin\Debug\netcoreapp2.2\Bounty.Domain.pdb
+D:\Projects\Bounty\Bounty.Domain.Repositories\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.pdb
+D:\Projects\Bounty\Bounty.Domain.Repositories\obj\Debug\netcoreapp2.2\Bounty.Domain.Repositories.csprojAssemblyReference.cache
+D:\Projects\Bounty\Bounty.Domain.Repositories\obj\Debug\netcoreapp2.2\Bounty.Domain.Repositories.AssemblyInfoInputs.cache
+D:\Projects\Bounty\Bounty.Domain.Repositories\obj\Debug\netcoreapp2.2\Bounty.Domain.Repositories.AssemblyInfo.cs
+D:\Projects\Bounty\Bounty.Domain.Repositories\obj\Debug\netcoreapp2.2\Bounty.Domain.Repositories.csproj.CopyComplete
+D:\Projects\Bounty\Bounty.Domain.Repositories\obj\Debug\netcoreapp2.2\Bounty.Domain.Repositories.dll
+D:\Projects\Bounty\Bounty.Domain.Repositories\obj\Debug\netcoreapp2.2\Bounty.Domain.Repositories.pdb
+D:\Projects\Bounty\Bounty.Domain.Repositories\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.Web.dll
+D:\Projects\Bounty\Bounty.Domain.Repositories\bin\Debug\netcoreapp2.2\Bounty.Infrastructure.Web.pdb
